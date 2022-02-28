@@ -6,10 +6,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+The user interface was taken from dribble which is an open source software. User defined widgets were made  . App has multiple screens and so  routes and navigations were used and data was transferred in between screens 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Below are the screenshots of the same:-
+
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
